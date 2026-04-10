@@ -12,13 +12,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SSSSS0828&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
 </p>
+
 ### 👨‍💻 关于我 (About Me)
 
 - 🔭 目前正在开发：**盲人抓取导航辅助系统 / Linux高性能局域网大文件传输与同步终端**
 - 🌱 正在深入钻研：**现代 C++ (C++11/14/17)、网络底层通讯、多线程与并发控制**
-- 💡 技术专长：精通基于 **Linux** 环境的 **C/C++** 开发，熟悉 **Qt** 客户端开发与 **CMake** 工程化构建。
+- 💡 技术专长：熟悉基于 **Linux** 环境的 **C/C++** 开发，熟悉 **Qt** 客户端开发与 **CMake** 工程化构建。
 - 💬 欢迎与我交流：C++ 系统编程、计算机网络、或者任何有趣的开源项目！
-- 📫 如何联系我：[1816318543@qq.com]
+- 📫 如何联系我：QQ邮箱[1816318543@qq.com]
 
 ---
 
