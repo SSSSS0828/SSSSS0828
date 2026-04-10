@@ -50,8 +50,6 @@
 
 ### 📊 GitHub 动态 (My GitHub Activity)
 
-<br>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SSSSS0828/SSSSS0828/output/github-snake-dark.svg">
