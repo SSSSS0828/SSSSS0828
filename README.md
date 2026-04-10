@@ -36,12 +36,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub 数据 (My Stats)
-
-> 💡 *动态展示我的开源活跃度与代码倾向（每日自动更新）*
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSSS0828&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSS0828&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="cout.svg" width="100%" alt="My custom animation" />
 </div>
