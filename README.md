@@ -2,6 +2,10 @@
 
 <h3 align="center">A passionate C++ Developer specializing in Linux & Network Programming</h3>
 
+<div align="center">
+  <img src="cout.svg" width="100%" alt="My custom animation" />
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SSSSS0828&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
 </p>
@@ -36,6 +40,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<div align="center">
-  <img src="cout.svg" width="100%" alt="My custom animation" />
-</div>
+
