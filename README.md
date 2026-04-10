@@ -6,12 +6,12 @@
   <img src="cout.svg" width="100%" alt="My custom animation" />
 </div>
 
+
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SSSSS0828&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
 </p>
-
----
-
 ### 👨‍💻 关于我 (About Me)
 
 - 🔭 目前正在开发：**盲人抓取导航辅助系统 / Linux高性能局域网大文件传输与同步终端**
