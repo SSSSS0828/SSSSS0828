@@ -6,8 +6,6 @@
   <img src="cout.svg" width="100%" alt="My custom animation" />
 </div>
 
-
-
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SSSSS0828&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
@@ -19,7 +17,7 @@
 - 🌱 正在深入钻研：**现代 C++ (C++11/14/17)、网络底层通讯、多线程与并发控制**
 - 💡 技术专长：熟悉基于 **Linux** 环境的 **C/C++** 开发，熟悉 **Qt** 客户端开发与 **CMake** 工程化构建。
 - 💬 欢迎与我交流：C++ 系统编程、计算机网络、或者任何有趣的开源项目！
-- 📫 如何联系我：QQ邮箱[1816318543@qq.com]
+- 📫 如何联系我：[![Email](https://img.shields.io/badge/Email-1816318543@qq.com-00599c?style=flat&logo=tencent-qq&logoColor=white)](mailto:1816318543@qq.com)
 
 ---
 
@@ -41,6 +39,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+
+### 🔥 精选项目 (Featured Projects)
+
+* 🚀 **[Linux 局域网大文件传输终端](#)** - 基于 `Epoll` 与多线程实现的高性能文件同步工具，支持断点续传。
+* 👁️ **[盲人抓取导航辅助系统](#)** - 结合 OpenCV 图像处理与 C++ 的软硬件结合辅助项目。
+
+---
+
+### 📊 GitHub 动态 (My GitHub Activity)
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SSSSS0828&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="SSSSS0828" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <picture>
