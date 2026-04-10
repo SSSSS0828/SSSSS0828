@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm xun 👋</h1>
 
-<!--
-**SSSSS0828/SSSSS0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">A passionate C++ Developer specializing in Linux & Network Programming</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SSSSS0828&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 关于我 (About Me)
+
+- 🔭 目前正在开发：**轻量级高性能 TCP 服务器 / 智能车辆视觉分析系统**
+- 🌱 正在深入钻研：**现代 C++ (C++11/14/17)、网络底层通讯、多线程与并发控制**
+- 💡 技术专长：精通基于 **Linux** 环境的 **C/C++** 开发，熟悉 **Qt** 客户端开发与 **CMake** 工程化构建。
+- 💬 欢迎与我交流：C++ 系统编程、计算机网络、或者任何有趣的开源项目！
+- 📫 如何联系我：[1816318543@qq.com]
+
+---
+
+### 🛠️ 技术栈 (Tech Stack)
+
+**核心开发语言与框架：**
+<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**操作系统与工程化工具：**
+<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub 数据 (My Stats)
+
+> 💡 *动态展示我的开源活跃度与代码倾向（每日自动更新）*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSSS0828&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSS0828&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
