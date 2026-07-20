@@ -13,7 +13,15 @@
 
 ### 👨‍💻 关于我 (About Me)
 
-- 🔭 目前正在开发：**盲人抓取导航辅助系统**，并持续积累医疗生物工业上位机与设备控制软件开发经验。 - 💻 主要技术方向：基于 **C++ / Qt** 和 **C# / WPF** 开发桌面客户端、工业上位机及软硬件交互系统。 - 🌱 正在深入学习：**现代 C++、Linux 系统与网络编程、多线程与并发控制、Docker、Kubernetes、Ansible 和 CI/CD**。 - ⚙️ 工程实践能力：熟悉 **CMake、Git、GitHub Actions、Docker Compose、Nginx** 等工程化构建与服务部署工具。 - 📡 熟悉技术领域：**TCP/IP、Socket、WebSocket、设备通信、异步任务、状态管理、日志记录与故障排查**。 - 📊 正在拓展：基于 **Prometheus、Grafana 和 Loki** 的系统监控、日志采集与可观测性建设。 - 🎯 当前目标：持续提升在 **Linux 后端服务、工业软件、系统部署、自动化运维和云原生架构** 方面的综合能力。 - 💬 欢迎与我交流：**C++ 系统编程、C# / WPF、Linux 网络开发、工业上位机、DevOps** 以及任何有趣的开源项目。 - 📫 如何联系我：[![Email](https://img.shields.io/badge/Email-1816318543@qq.com-00599c?style=flat&logo=tencent-qq&logoColor=white)](mailto:1816318543@qq.com)
+- 🔭 目前正在开发：**盲人抓取导航辅助系统**，并持续积累医疗生物工业上位机与设备控制软件开发经验。
+- 💻 主要技术方向：基于 **C++ / Qt** 和 **C# / WPF** 开发桌面客户端、工业上位机及软硬件交互系统。
+- 🌱 正在深入学习：**现代 C++、Linux 系统与网络编程、多线程与并发控制、Docker、Kubernetes、Ansible 和 CI/CD**。
+- ⚙️ 工程实践能力：熟悉 **CMake、Git、GitHub Actions、Docker Compose、Nginx** 等工程化构建与服务部署工具。
+- 📡 熟悉技术领域：**TCP/IP、Socket、WebSocket、设备通信、异步任务、状态管理、日志记录与故障排查**。
+- 📊 正在拓展：基于 **Prometheus、Grafana 和 Loki** 的系统监控、日志采集与可观测性建设。
+- 🎯 当前目标：持续提升在 **Linux 后端服务、工业软件、系统部署、自动化运维和云原生架构** 方面的综合能力。
+- 💬 欢迎与我交流：**C++ 系统编程、C# / WPF、Linux 网络开发、工业上位机、DevOps** 以及任何有趣的开源项目。
+- 📫 如何联系我：[![Email](https://img.shields.io/badge/Email-1816318543@qq.com-00599c?style=flat&logo=tencent-qq&logoColor=white)](mailto:1816318543@qq.com)
 
 ---
 
