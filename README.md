@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm xun 👋</h1>
 
-<h3 align="center">A passionate C++ Developer specializing in Linux & Network Programming</h3>
+<h3 align="center">A C++ & C# Developer focused on Linux, Network Programming, Industrial Software, and DevOps</h3>
 
 <div align="center">
   <img src="cout.svg" width="100%" alt="My custom animation" />
