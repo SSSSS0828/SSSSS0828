@@ -1,87 +1,91 @@
-<h1 align="center">Hi there, I'm xun 👋</h1>
+<h1 align="center">Hi, I'm Yuanxun Liu 👋</h1>
 
-<h3 align="center">A C++ & C# Developer focused on Linux, Network Programming, Industrial Software, and DevOps</h3>
-
-<div align="center">
-  <img src="cout.svg" width="100%" alt="My custom animation" />
-</div>
-
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SSSSS0828&label=Profile%20views&color=0e75b6&style=flat" alt="visitor badge" />
+  <strong>DevOps / SRE · Software Engineering · Cloud Native</strong><br>
+  Building reliable systems with a developer's mindset.
 </p>
 
-### 👨‍💻 关于我 (About Me)
+<div align="center">
+  <img src="cout.svg" width="100%" alt="Custom developer animation" />
+</div>
 
-- 🔭 目前正在开发：**盲人抓取导航辅助系统**，并持续积累医疗生物工业上位机与设备控制软件开发经验。
-- 💻 主要技术方向：基于 **C++ / Qt** 和 **C# / WPF** 开发桌面客户端、工业上位机及软硬件交互系统。
-- 🌱 正在深入学习：**现代 C++、Linux 系统与网络编程、多线程与并发控制、Docker、Kubernetes、Ansible 和 CI/CD**。
-- ⚙️ 工程实践能力：熟悉 **CMake、Git、GitHub Actions、Docker Compose、Nginx** 等工程化构建与服务部署工具。
-- 📡 熟悉技术领域：**TCP/IP、Socket、WebSocket、设备通信、异步任务、状态管理、日志记录与故障排查**。
-- 📊 正在拓展：基于 **Prometheus、Grafana 和 Loki** 的系统监控、日志采集与可观测性建设。
-- 🎯 当前目标：持续提升在 **Linux 后端服务、工业软件、系统部署、自动化运维和云原生架构** 方面的综合能力。
-- 💬 欢迎与我交流：**C++ 系统编程、C# / WPF、Linux 网络开发、工业上位机、DevOps** 以及任何有趣的开源项目。
-- 📫 如何联系我：[![Email](https://img.shields.io/badge/Email-1816318543@qq.com-00599c?style=flat&logo=tencent-qq&logoColor=white)](mailto:1816318543@qq.com)
+<p align="center">
+  <a href="mailto:1816318543@qq.com"><img src="https://img.shields.io/badge/Email-1816318543%40qq.com-00599C?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=SSSSS0828&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+</p>
 
----
+## About Me / 关于我
 
-### 🛠️ 技术栈 (Tech Stack)
+- 🎯 Seeking **DevOps / SRE roles with a strong software development component**.
+- 🎓 Building **KubeAIOps**, a private master's research project for Kubernetes operations, observability, and intelligent diagnosis.
+- 💻 Development background in **C++, C#, Go, and Python**, including desktop clients, Linux network services, concurrent systems, and industrial software.
+- ☁️ Working with **Linux, Docker, Kubernetes, K3s, Helm, Ansible, Nginx, and GitHub Actions** to automate delivery and operations.
+- 📈 Exploring reliability engineering through **Prometheus, Grafana, Loki, Alertmanager, structured logging, and incident troubleshooting**.
+- 🔧 I enjoy turning operational problems into maintainable tools, APIs, automation, and observable systems.
 
-**核心开发语言与框架：**
-<br>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+我希望成为一名具备开发能力的 DevOps / SRE 工程师：不仅会部署和维护系统，也能读懂代码、开发工具、定位问题，并通过自动化减少重复工作。
 
-**操作系统与工程化工具：**
-<br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+## Engineering Focus / 工程能力
 
-**容器化与云原生：**
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+| Area | What I work with |
+| --- | --- |
+| **Software Development** | C++ / Qt, C# / WPF, Go, Python, REST API, WebSocket, concurrency, network programming |
+| **Systems & Networking** | Linux, Bash, TCP/IP, process and resource analysis, Nginx, troubleshooting |
+| **Platform Engineering** | Docker, Docker Compose, Kubernetes, K3s, Helm, Ansible, CI/CD |
+| **Reliability & Observability** | Prometheus, Grafana, Loki, Alertmanager, metrics, logs, health checks |
 
-**自动化运维与 CI/CD：**
-<br>
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+## Tech Stack
 
-**监控与可观测性：**
-<br>
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Loki](https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=black)
-![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,go,python,qt,dotnet,linux,bash,docker,kubernetes,ansible,nginx,prometheus,grafana,git,githubactions,postgres&perline=9" alt="Technology stack">
+</p>
 
----
+## Featured Projects / 精选项目
 
-### 🔥 精选项目 (Featured Projects)
+### KubeAIOps — Kubernetes Operations & AIOps Platform
 
-* 🏭 **[AI 视觉缺陷检测客户端](https://github.com/SSSSS0828/ai_vision_defect)** - 工业级智能视觉检测终端 (C++11/Qt/OpenCV/YOLO)。采用异步流水线解耦 AI 推理与 UI 渲染，实现了 `cv::Mat` 与 Qt 的**零拷贝**大图传递，并通过配置自定义删除器的智能指针 (`std::shared_ptr`) 彻底解决跨线程传递的内存泄漏隐患。
-* 🚀 **[Linux 局域网大文件传输终端](https://github.com/SSSSS0828/lan-file-sync)** - 基于 C++11 / Qt 5 的高性能局域网大文件传输工具，支持 GB 级大文件高速传输 · 断点续传 · 实时速率可视化 · 双端 MD5 校验
-* 👁️ **[盲人抓取导航辅助系统](#)** - 结合 OpenCV 图像处理与 C++ 的软硬件结合辅助项目。
+Private master's research project focused on Kubernetes cluster operations and intelligent diagnosis. It combines a **Go control plane**, **Vue frontend**, **PostgreSQL**, **K3s/kind**, edge-agent communication, WebSocket-based real-time updates, and a local SQLite queue for temporary offline scenarios.
 
----
+`Go` `Vue` `Kubernetes` `K3s` `PostgreSQL` `WebSocket` `Observability`
 
-### 📊 GitHub 动态 (My GitHub Activity)
+### [Ansible Operations Platform](https://github.com/SSSSS0828/ansible-ops-platform)
+
+A web-based automation platform that runs Ansible playbooks, streams execution logs in real time, keeps task history, and integrates Prometheus and Grafana monitoring.
+
+`Python` `Flask` `Ansible` `Docker Compose` `Prometheus` `Grafana`
+
+### [AI Vision Defect Detection Client](https://github.com/SSSSS0828/ai_vision_defect)
+
+An industrial visual-inspection client with an asynchronous processing pipeline. It separates image decoding, AI inference, and UI rendering, while using safe cross-thread memory ownership and efficient image transfer.
+
+`C++11` `Qt` `OpenCV` `YOLO` `Multithreading`
+
+### [LAN Large-file Transfer Client](https://github.com/SSSSS0828/lan-file-sync)
+
+A Linux LAN file-transfer application supporting large files, resumable transfers, MD5 verification, memory mapping, a thread pool, and real-time progress reporting.
+
+`C++11` `Qt` `Linux` `TCP/IP` `mmap` `Concurrency`
+
+## Current Learning Path / 当前方向
+
+```text
+Software Development
+        ↓
+Linux & Network Engineering
+        ↓
+Containers & Kubernetes
+        ↓
+Automation, CI/CD & Observability
+        ↓
+DevOps / SRE with development capability
+```
+
+## Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SSSSS0828/SSSSS0828/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SSSSS0828/SSSSS0828/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SSSSS0828/SSSSS0828/output/github-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/SSSSS0828/SSSSS0828/output/github-snake.svg">
   </picture>
 </div>
