@@ -1,31 +1,33 @@
 name: Generate Snake
 
-# 触发条件：每天按时运行，或者手动点击运行
 on:
   schedule:
-    # 每天 UTC 时间 0 点（北京时间早上 8 点）运行一次
-    - cron: "0 0 * * *" 
+    # Every day at 08:00 China Standard Time (00:00 UTC).
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-snake
+  cancel-in-progress: true
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v3
-    
-      # 生成贪吃蛇 SVG 图片
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: SSSSS0828
-          # 输出浅色和深色两套模式的 SVG
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            
-      # 将生成的图片推送到一个叫 'output' 的分支
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
