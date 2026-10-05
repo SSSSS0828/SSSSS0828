@@ -1,7 +1,7 @@
 <h1 align="center">你好，这里是刘元勋 👋</h1>
 
 <p align="center">
-  <strong>DevOps / SRE · 软件工程 · 云原生</strong><br>
+  <strong>DevOps · 软件工程 · 云原生</strong><br>
   用开发者的思路做可靠的系统
 </p>
 
@@ -16,14 +16,14 @@
 
 ## 关于我
 
-- 🎯 求职方向：**DevOps / SRE**
-- 🎓 做过 **AIOps**：Kubernetes 运维、可观测与智能诊断
-- 💻 开发背景覆盖 **C++、C#、Go、Python**，包括桌面客户端、Linux 网络服务、并发系统和工业软件
-- ☁️ 使用 **Linux、Docker、Kubernetes、K3s、Helm、Ansible、Nginx、GitHub Actions** 做交付和运维自动化
+- 🎯 求职方向：**DevOps / Ai实施**
+- 🎓 做过 **AIOps**：Ai运维、可观测与智能诊断
+- 💻 开发背景覆盖 **C++、Python**，包括桌面客户端、Linux 网络服务、并发系统和工业软件
+- ☁️ 使用 **Linux、Docker、K3s、Ansible、Nginx、GitHub Actions** 做交付和运维自动化
 - 📈 通过 **Prometheus、Grafana、Loki、Alertmanager、结构化日志和故障排查** 了解可靠性工程
 - 🔧 喜欢把运维问题收成可维护的工具、API、自动化和可观测系统
 
-希望成为一名具备开发能力的 DevOps / SRE 工程师：不仅会部署和维护系统，也能读懂代码、开发工具、定位问题，并通过自动化减少重复工作
+希望成为一名具备开发能力的 DevOps / Ai实施 工程师：不仅会部署和维护系统，也能读懂代码、开发工具、定位问题，并通过自动化减少重复工作
 
 ## 工程能力
 
